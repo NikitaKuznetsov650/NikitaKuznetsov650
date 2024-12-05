@@ -11,13 +11,14 @@ I am a Middle+ Backend Developer with experience in building and developing web 
 
 ## 🛠️ Technologies and Tools
 
-<p align="center">
+<p align="left">
 <a href="https://instagram.com/nikky.kuznetsov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikky.kuznetsov" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smok" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smok" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@smok" height="30" width="40" /></a>
 <a href="https://discord.gg/SMOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SMOK" height="30" width="40" /></a>
 </p>
+
 
 ---
 
