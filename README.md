@@ -1,11 +1,6 @@
 <h1 align="center">
   Hello, World! 👋
 </h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web,%20one%20line%20of%20code%20at%20a%20time&descAlignY=51&descAlign=62" alt="Header image">
-</p>
-
 ---
 
 ## 🚀 About Me
