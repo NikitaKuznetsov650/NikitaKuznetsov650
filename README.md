@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">
+  Hello, World! 👋
+</h1>
 
-<!--
-**NikitaKuznetsov650/NikitaKuznetsov650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web,%20one%20line%20of%20code%20at%20a%20time&descAlignY=51&descAlign=62" alt="Header image">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Middle+ Backend Developer with experience in building and developing web applications. Skilled in modern libraries and frameworks such as express.js, NestJs, Django, TypeScript, Cybersecurity. Committed to continuous growth and learning in the field of frontend development.
+
+---
+
+## 🛠️ Technologies and Tools
+
+<p align="center">
+<a href="https://instagram.com/nikky.kuznetsov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikky.kuznetsov" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smok" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smok" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@smok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@smok" height="30" width="40" /></a>
+<a href="https://discord.gg/SMOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SMOK" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📚 Education and Certifications
+
+- **Backend Development** - Completed various online courses and certifications.
+- **Bachelor's Degree in Software Engineering** - Currently pursuing at a university.
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/sadkovichus" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+---
+
+## 🎯 Future Goals
+
+- Enhance skills in TypeScript and Next.js.
+- Learn new frameworks and tools for web development.
+- Work on exciting projects and improve my skills.
+
+<p align="center">
+  <i>Let's build something great together! 🚀</i>
+</p>
+
+</div>
