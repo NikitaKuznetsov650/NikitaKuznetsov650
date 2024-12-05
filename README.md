@@ -31,7 +31,7 @@ I am a Middle+ Backend Developer with experience in building and developing web 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/sadkovichus" target="_blank">
+  <a href="https://t.me/AndreySmirnoffv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
@@ -40,7 +40,7 @@ I am a Middle+ Backend Developer with experience in building and developing web 
 
 ## 🎯 Future Goals
 
-- Enhance skills in TypeScript and Next.js.
+- Enhance skills in TypeScript and Cybersecurity.
 - Learn new frameworks and tools for web development.
 - Work on exciting projects and improve my skills.
 
