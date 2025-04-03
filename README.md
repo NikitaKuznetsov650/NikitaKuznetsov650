@@ -27,16 +27,6 @@ I am a Middle+ Backend Developer with experience in building and developing web 
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://t.me/AndreySmirnoffv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-
----
-
 ## 🎯 Future Goals
 
 - Enhance skills in TypeScript and Cybersecurity.
